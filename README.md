@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github-readme-stats.vercel.app/api?username=BayInl)
+![](https://img.shields.io/badge/python-orange)
+![](https://img.shields.io/badge/rust-blue)
