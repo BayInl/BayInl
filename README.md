@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=BayInl)
 ![](https://img.shields.io/badge/python-orange)
 ![](https://img.shields.io/badge/rust-blue)
+![](https://img.shields.io/badge/C-black)
+![](https://img.shields.io/badge/C%2B%2B-black)
