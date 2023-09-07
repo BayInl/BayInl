@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/rust-blue)
 ![](https://img.shields.io/badge/C-black)
 ![](https://img.shields.io/badge/C%2B%2B-black)
+![](https://img.shields.io/badge/VUE-green)
